@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ShareToKindle</string>
+    <string name="add">Add</string>
+    <string name="file_sharing">File sharing</string>
+    <string name="dialog_clear_all_item">are you sure to clear all item?</string>
+    <string name="yes">yes</string>
+    <string name="cancel">cancel</string>
+    <string name="choose_a_file">choose files</string>
+    <string name="choose_files">choose files</string>
+</resources>
